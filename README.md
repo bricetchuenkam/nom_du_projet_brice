@@ -1,1 +1,1 @@
-# nom_du_projet_brice
+# nom_du_projet_brice en genie logiciel
