@@ -1,5 +1,5 @@
 ---
-name : descripton
+name:descripton
 about:hdhd
 title:nd djdjd
 labels:
