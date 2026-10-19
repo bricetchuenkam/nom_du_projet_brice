@@ -1,0 +1,13 @@
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nom-du-projet-brice"
+version = "0.1.0"
+description = "Mon projet Python"
+requires-python = ">=3.9"
+
+[tool.setuptools]
+py-modules = ["main"]
